@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "399a0f3c-ca94-4e20-b508-c2b701fb73c8": {
+      "ProjectGuid": "399a0f3c-ca94-4e20-b508-c2b701fb73c8",
+      "DisplayName": "Quran_School_API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
